@@ -3,3 +3,4 @@ mkdocs-material
 pymdown-extensions
 mkdocs-git-revision-date-localized-plugin
 mkdocs-awesome-pages-plugin
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
