@@ -1,4 +1,4 @@
-FROM nginx:1.16.0-alpine
+FROM nginx:alpine
 ARG CONFD_REPO=iwilltry42/confd
 ARG CONFD_VERSION=0.16.1
 ARG OS=linux
